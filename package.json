@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/masanarih0ri/typescript-for-javascript/issues"
   },
-  "homepage": "https://github.com/masanarih0ri/typescript-for-javascript#readme"
+  "homepage": "https://github.com/masanarih0ri/typescript-for-javascript#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
