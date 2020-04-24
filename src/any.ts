@@ -15,12 +15,5 @@ axios.get(url).then((response) => {
     description: string;
   }
   let data: Article[] = response.data;
-  data = [
-    {
-      id: 11,
-      title: 'title',
-      description: 'description',
-    },
-  ];
   console.log(data);
 });
