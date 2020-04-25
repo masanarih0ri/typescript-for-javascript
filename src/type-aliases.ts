@@ -20,4 +20,5 @@ const example2: Profile = {
   age: 32,
 };
 
+// これによりexampleの型推論をそのまま引き継ぐことができる
 type Profile2 = typeof example;
