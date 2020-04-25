@@ -13,7 +13,7 @@ const daimajin_sasaki: Pitcher1 = {
 };
 
 const ochial_hiromitsu: Batter1 = {
-  speed: 132,
+  // speed: 132,
   average: 0.367,
 };
 
